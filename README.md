@@ -23,6 +23,6 @@ Currently building Freedivah, where technology meets underwater adventures.
 </p>
 
 <p align="center">
-<a href="https://velog.io/@jiah](https://www.notion.so/jiah827/Jiah-s-Tech-Note-1204ef50e633800580b3ee8b70742719"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jiah"/></a>
-<a href="https://www.linkedin.com/in/jiah-lee](https://www.linkedin.com/in/jiaah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiah-lee"/></a>
+<a href="https://www.notion.so/jiah827/Jiah-s-Tech-Note-1204ef50e633800580b3ee8b70742719"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jiah"/></a>
+<a href="https://www.linkedin.com/in/jiaah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiah-lee"/></a>
 </p>
