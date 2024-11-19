@@ -6,10 +6,6 @@ Frontend developer exploring the depths of web development, much like freediving
 - 🏊‍♀ [Freedivah](https://github.com/f-lab-edu/Freedivah) - A platform for freedivers to track dives and connect globally
 - 🎯 Focusing on: Feature-Sliced Design with a domain-focused approach, Loosely Coupled Architecture for flexibility and scalability
 
-### Recent Work
-- 🌱 Played a key role in frontend development at Alookso, a participatory media platform, collaborating with designers to ensure UI/UX consistency.
-- 🏢 Developed a building management platform at Korea Spatial Data, contributing to a 10x revenue growth by driving digital transformation and improving operational efficiency.
-
 ### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
