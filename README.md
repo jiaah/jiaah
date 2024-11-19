@@ -1,6 +1,6 @@
 # 🌊 Diving into Code | Jiah
 
-rontend developer exploring the depths of web development, much like freediving. Building responsible web applications where technology meets underwater adventures and business challenges.
+Frontend developer exploring the depths of web development, much like freediving. Building responsible web applications where technology meets underwater adventures and business challenges.
 
 ### Currently Building
 - 🏊‍♀ [Freedivah](https://github.com/f-lab-edu/Freedivah) - A platform for freedivers to track dives and connect globally
