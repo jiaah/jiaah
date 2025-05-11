@@ -1,15 +1,20 @@
-# 🌊 Diving into Code | Jiah
+# 🌊 Jiah Lee | Frontend Developer
+Frontend developer passionate about building scalable web applications. Like freediving, I dive deep into code to create elegant solutions.
 
-Frontend developer exploring the depths of web development, much like freediving. Building responsible web applications where technology meets underwater adventures and business challenges.
+### 🚀 Current Project: Caterly
+🍽️ All-in-one catering operations platform
 
-### Currently Building
-- 🏊‍♀ [Freedivah](https://github.com/f-lab-edu/Freedivah) - A platform for freedivers to track dives and connect globally
-- 🎯 Focusing on: Feature-Sliced Design with a domain-focused approach, Loosely Coupled Architecture for flexibility and scalability
+**Tech Highlights:**
+- Feature-Sliced Design for scalable architecture
+- Monorepo with Turborepo for shared resources
+- React + TypeScript + TailwindCSS
+
 
 ### Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </p>
